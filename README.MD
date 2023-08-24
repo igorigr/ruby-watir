@@ -1,5 +1,8 @@
 # Projeto Base Automação Web - Ruby, Watir & Cucumber(BDD) + Rspec
 
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
+
 ## Ferramentas utilizadas:
 - [Ruby](https://www.ruby-lang.org/en/ "Ruby")
 - [Watir](http://watir.com/ "Watir")
